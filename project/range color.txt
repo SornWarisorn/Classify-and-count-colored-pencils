@@ -1,0 +1,33 @@
+เหลือง	yellow
+เขียวอ่อน	light green
+เขียวเข้ม	dark green
+น้ำเงิน	dark blue
+ชมพู	pink
+ฟ้า	light blue
+เนื้อ	egg color
+ดำ	black
+น้ำตาล	brown
+แดง	red
+ส้ม	orange
+ม่วง	purple
+
+Dark blue 
+lower	[110, 60, 60] 
+upper	[130, 255, 255]
+
+orange
+lower	[5, 160, 100]
+upper	[20, 255, 255]
+
+yellow
+lower	[20, 100, 192]
+upper	[50, 255, 255]
+
+light blue
+lower	[92, 100, 160]
+upper	[50, 255, 255]
+
+red
+lower	[0, 160, 130]
+upper	[5, 255, 255]
+
